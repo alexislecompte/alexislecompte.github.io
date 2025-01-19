@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome on my blog!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here you will find a random collection of posts, documenting personal projects and mostly focused on software development. Some of the topics of interest for this blog include but are not limited to Splunk app and add-on development, video games development, and perhaps a bit of cyber security and observability.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you found any of these articles interesting and wish to talk to me, please feel free to reach out on Linkedin (link in the footer).
 
-
-[jekyll-organization]: https://github.com/jekyll
+Happy reading!
